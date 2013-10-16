@@ -1,4 +1,4 @@
 taller
 ======
 
-Taller de ediciòn colaborativa de documentos usando git y latex
+Taller de edición colaborativa de documentos usando git y latex
